@@ -1,0 +1,22 @@
+.App-body {
+  background-color: #282c34;
+}
+.container {
+  display: flex;
+}
+.publish {
+  background-color: rgb(63, 63, 63);
+  flex: 50%;
+  margin: 2%;
+  color: white;
+}
+.inputs {
+  background-color: rgb(134, 133, 133);
+  flex: 50%;
+  margin: 2%;
+  height: 690px;
+}
+
+.inputs-perview{
+  
+}
